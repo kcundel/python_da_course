@@ -1,0 +1,9 @@
+Установка и добавление окружения в jupyter
+pip install --user ipykernel
+python kernel install --user --name=venv
+
+
+Удаление окружения
+jupyter kernelspec list
+jupyter kernelspec uninstall venv
+

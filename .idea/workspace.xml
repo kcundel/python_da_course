@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7f06f8a-6963-4097-a6ad-ba5e78ffb27e" name="Default Changelist" comment="vacancy.zip">
+      <change beforePath="$PROJECT_DIR$/Lesson1/about.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1/about.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qM0RTaZGctViS5KTKoI8W6xRw0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion.SSH" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <option name="sshConnectionType" value="PASSWORD" />
+    <option name="sshUserName" value="pytosha" />
+    <option name="sshPrivateKeyPath" value="$USER_HOME$/.ssh/id_rsa" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7f06f8a-6963-4097-a6ad-ba5e78ffb27e" name="Default Changelist" comment="" />
+      <created>1616874143946</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616874143946</updated>
+      <workItem from="1616874145258" duration="214000" />
+      <workItem from="1616874362268" duration="199000" />
+      <workItem from="1616874565322" duration="2012000" />
+      <workItem from="1616917826973" duration="1546000" />
+      <workItem from="1616926434792" duration="16000" />
+      <workItem from="1616926455383" duration="60000" />
+      <workItem from="1616926532218" duration="1195000" />
+      <workItem from="1616928148298" duration="178000" />
+      <workItem from="1616928337462" duration="179000" />
+      <workItem from="1616928530648" duration="4000" />
+      <workItem from="1616950558469" duration="3072000" />
+      <workItem from="1616958303567" duration="1853000" />
+      <workItem from="1616960555887" duration="1064000" />
+      <workItem from="1617031630951" duration="5450000" />
+      <workItem from="1617043640164" duration="486000" />
+      <workItem from="1617081341338" duration="1522000" />
+      <workItem from="1617131165816" duration="738000" />
+    </task>
+    <task id="LOCAL-00001" summary="jupyter venv instructions">
+      <created>1616917630471</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616917630471</updated>
+    </task>
+    <task id="LOCAL-00002" summary="task 1">
+      <created>1616918687861</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616918687861</updated>
+    </task>
+    <task id="LOCAL-00003" summary="task 1">
+      <created>1616928208184</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1616928208184</updated>
+    </task>
+    <task id="LOCAL-00004" summary="task 1">
+      <created>1617031667124</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1617031667125</updated>
+    </task>
+    <task id="LOCAL-00005" summary="about.py">
+      <created>1617037911638</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1617037911638</updated>
+    </task>
+    <task id="LOCAL-00006" summary="coding">
+      <created>1617081362376</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1617081362376</updated>
+    </task>
+    <task id="LOCAL-00007" summary="vacancy.zip">
+      <created>1617131364875</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1617131364875</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="SHOW_OTHER_BRANCHES" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Lesson1/hometask" />
+    </ignored-roots>
+    <MESSAGE value="jupyter venv instructions" />
+    <MESSAGE value="task 1" />
+    <MESSAGE value="about.py" />
+    <MESSAGE value="coding" />
+    <MESSAGE value="vacancy.zip" />
+    <option name="LAST_COMMIT_MESSAGE" value="vacancy.zip" />
+  </component>
+</project>
