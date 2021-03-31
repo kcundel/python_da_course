@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7f06f8a-6963-4097-a6ad-ba5e78ffb27e" name="Default Changelist" comment="vacancy.zip">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson1/about.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1/about.py" afterDir="false" />
-    </list>
+    <list default="true" id="c7f06f8a-6963-4097-a6ad-ba5e78ffb27e" name="Default Changelist" comment="comment" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +74,7 @@
       <workItem from="1617081341338" duration="1522000" />
       <workItem from="1617131165816" duration="738000" />
       <workItem from="1617131908172" duration="491000" />
-      <workItem from="1617132427662" duration="606000" />
+      <workItem from="1617132427662" duration="813000" />
     </task>
     <task id="LOCAL-00001" summary="jupyter venv instructions">
       <created>1616917630471</created>
@@ -128,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617131364875</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="comment">
+      <created>1617133058580</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1617133058580</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +162,7 @@
     <MESSAGE value="about.py" />
     <MESSAGE value="coding" />
     <MESSAGE value="vacancy.zip" />
-    <option name="LAST_COMMIT_MESSAGE" value="vacancy.zip" />
+    <MESSAGE value="comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="comment" />
   </component>
 </project>
