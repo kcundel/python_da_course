@@ -44,7 +44,6 @@ def show_info_you_v():
     else:
         print('_' * 30)
 
-        print('_' * 30)
 
 
 def show_info_zylkov():
