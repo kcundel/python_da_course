@@ -3,14 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c7f06f8a-6963-4097-a6ad-ba5e78ffb27e" name="Default Changelist" comment="Lesson2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson1/about.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1/about.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson1/notebooks/1.intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1/notebooks/1.intro.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson1/notebooks/2.loops.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1/notebooks/2.loops.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson1/notebooks/3.files.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1/notebooks/3.files.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson1/notebooks/4.exceptions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1/notebooks/4.exceptions.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson1/notebooks/5.modul.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1/notebooks/5.modul.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson1/notebooks/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1/notebooks/data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson1/notebooks/vil.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1/notebooks/vil.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson1/L1_python_intro.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1/L1_python_intro.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson1/venv_jupyter" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1/venv_jupyter" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +109,8 @@
       <workItem from="1617131908172" duration="491000" />
       <workItem from="1617132427662" duration="813000" />
       <workItem from="1617204526359" duration="1813000" />
-      <workItem from="1617215930440" duration="913000" />
+      <workItem from="1617215930440" duration="1240000" />
+      <workItem from="1617447871276" duration="517000" />
     </task>
     <task id="LOCAL-00001" summary="jupyter venv instructions">
       <created>1616917630471</created>
@@ -180,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617204576132</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Lesson2">
+      <created>1617220791449</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1617220791449</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

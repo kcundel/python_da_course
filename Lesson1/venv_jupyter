@@ -1,7 +1,23 @@
+Установка виртуального окружения
+pip install virtualenv
+
+Создание виртуального окружения venv
+python -m venv venv
+
+Активация виртуального окружения
+source venv/bin/activate
+
+Деактивация виртуального окружения
+deactivate
+
+
+Статья про виртуальное окружение
+https://python-scripts.com/virtualenv
+
+
 Установка и добавление окружения в jupyter
 pip install --user ipykernel
 python kernel install --user --name=venv
-
 
 Удаление окружения
 jupyter kernelspec list
